@@ -67,7 +67,7 @@ var APP_DATA = {
       },
       "linkHotspots": [],
       "infoHotspots": []
-    }
+    },
 	    {
       "id": "2-test3",
       "name": "test3",
